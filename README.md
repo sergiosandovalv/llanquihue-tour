@@ -16,23 +16,23 @@ El sistema desarrollado en Java permite gestionar información de tours turísti
 
 La aplicación implementa conceptos fundamentales de Programación Orientada a Objetos (POO), tales como:
 
-Encapsulamiento.
+-Encapsulamiento.
 
-Constructores.
+-Constructores.
 
-Getters y Setters.
+-Getters y Setters.
 
-Sobrescritura de métodos mediante toString().
+-Sobrescritura de métodos mediante toString().
 
-Manejo de archivos de texto.
+-Manejo de archivos de texto.
 
-Uso de colecciones ArrayList.
+-Uso de colecciones ArrayList.
 
-Estructuras de control (if y while).
+-Estructuras de control (if y while).
 
-Manejo de excepciones mediante try-catch.
+-Manejo de excepciones mediante try-catch.
 
-El sistema permite mostrar el listado completo de tours y filtrar aquellos pertenecientes a la categoría Familiar.
+-El sistema permite mostrar el listado completo de tours y filtrar aquellos pertenecientes a la categoría Familiar.
 
 
 # 🧱 Estructura general del proyecto
@@ -102,6 +102,6 @@ Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados 
 
 El sistema mostrará por consola:
 
-Todos los tours cargados desde el archivo.
+-Todos los tours cargados desde el archivo.
 
-Los tours filtrados por categoría Familiar.
+-Los tours filtrados por categoría Familiar.
