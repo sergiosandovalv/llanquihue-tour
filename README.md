@@ -40,7 +40,7 @@ La aplicación implementa conceptos fundamentales de Programación Orientada a O
 ```text
 src/
 ├── ui/
-│   └── Main.javaC
+│   └── Main.java
 ├── model/
 │   └── Tour.java
 ├── data/
