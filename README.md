@@ -62,31 +62,31 @@ Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados 
 
 # ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
-  Clonar el repositorio
+  -Clonar el repositorio
   
-  git clone https://github.com/sergiosandovalv/llanquihue-tour.git
+  -git clone https://github.com/sergiosandovalv/llanquihue-tour.git
   
-  Abrir el proyecto
+  -Abrir el proyecto
   
-  Abrir NetBeans IDE.
+  -Abrir NetBeans IDE.
   
-  Seleccionar File → Open Project.
+  -Seleccionar File → Open Project.
   
-  Buscar la carpeta del proyecto clonado.
+  -Buscar la carpeta del proyecto clonado.
   
-  Abrir el proyecto.
+  -Abrir el proyecto.
   
-  Ejecutar la aplicación
+  -Ejecutar la aplicación
   
-  Verificar que el archivo tours.txt se encuentre disponible en la carpeta resources.
+  -Verificar que el archivo tours.txt se encuentre disponible en la carpeta resources.
   
-  Ejecutar la clase Main.java ubicada en el paquete ui.
+  -Ejecutar la clase Main.java ubicada en el paquete ui.
   
-  El sistema cargará los tours desde el archivo de texto.
+  -El sistema cargará los tours desde el archivo de texto.
   
-  Se mostrará el listado completo de tours.
+  -Se mostrará el listado completo de tours.
   
-  Posteriormente se visualizarán únicamente los tours de tipo Familiar.
+  -Posteriormente se visualizarán únicamente los tours de tipo Familiar.
 
 
 
