@@ -37,6 +37,7 @@ El sistema permite mostrar el listado completo de tours y filtrar aquellos perte
 
 # 🧱 Estructura general del proyecto
 
+```text
 src/
 ├── ui/
 │   └── Main.javaC
@@ -46,7 +47,7 @@ src/
 │   └── GestorDatos.java
 └── resources/
     └── tours.txt
-
+```
 
 #  Descripción de paquetes:
 
