@@ -1,4 +1,5 @@
-🧠 Evaluación  – Desarrollo Orientado a Objetos I
+# 🧠 Evaluación – Desarrollo Orientado a Objetos I 
+
 👤 Autor del proyecto
 
 Nombre completo: Sergio Sandoval Valenzuela
@@ -7,7 +8,7 @@ Carrera: Analista Programador
 
 Sede: Santiago Online
 
-📘 Descripción general del sistema
+# 📘 Descripción general del sistema
 
 Este proyecto corresponde a la Evaluación de la asignatura Desarrollo Orientado a Objetos I.
 
@@ -26,20 +27,16 @@ Manejo de excepciones mediante try-catch.
 
 El sistema permite mostrar el listado completo de tours y filtrar aquellos pertenecientes a la categoría Familiar.
 
-🧱 Estructura general del proyecto
 
+## 🧱 Estructura general del proyecto
 
 src/
-
 ├── ui/
 │   └── Main.java
-│
 ├── model/
 │   └── Tour.java
-│
 ├── data/
 │   └── GestorDatos.java
-│
 └── resources/
     └── tours.txt
 
@@ -62,25 +59,25 @@ Contiene la clase GestorDatos, responsable de la lectura del archivo tours.txt y
 Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados por el sistema.
 
 
-⚙️ Instrucciones para clonar y ejecutar el proyecto
+# ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
-Clonar el repositorio
-git clone https://github.com/sergiosandovalv/llanquihue-tour.git
-Abrir el proyecto
-Abrir NetBeans IDE.
-Seleccionar File → Open Project.
-Buscar la carpeta del proyecto clonado.
-Abrir el proyecto.
-Ejecutar la aplicación
-Verificar que el archivo tours.txt se encuentre disponible en la carpeta resources.
-Ejecutar la clase Main.java ubicada en el paquete ui.
-El sistema cargará los tours desde el archivo de texto.
-Se mostrará el listado completo de tours.
-Posteriormente se visualizarán únicamente los tours de tipo Familiar.
+## Clonar el repositorio
+## git clone https://github.com/sergiosandovalv/llanquihue-tour.git
+## Abrir el proyecto
+## Abrir NetBeans IDE.
+## Seleccionar File → Open Project.
+## Buscar la carpeta del proyecto clonado.
+## Abrir el proyecto.
+## Ejecutar la aplicación
+## Verificar que el archivo tours.txt se encuentre disponible en la carpeta resources.
+## Ejecutar la clase Main.java ubicada en el paquete ui.
+## El sistema cargará los tours desde el archivo de texto.
+## Se mostrará el listado completo de tours.
+## Posteriormente se visualizarán únicamente los tours de tipo Familiar.
 
 
 
-📄 Resultado esperado
+# 📄 Resultado esperado
 
 El sistema mostrará por consola:
 
