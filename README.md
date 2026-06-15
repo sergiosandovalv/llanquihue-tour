@@ -24,11 +24,11 @@ Manejo de archivos de texto.
 Uso de colecciones ArrayList.
 Estructuras de control (if y while).
 Manejo de excepciones mediante try-catch.
-
+C
 El sistema permite mostrar el listado completo de tours y filtrar aquellos pertenecientes a la categoría Familiar.
 
 
-## 🧱 Estructura general del proyecto
+# 🧱 Estructura general del proyecto
 
 src/
 ├── ui/
@@ -41,39 +41,40 @@ src/
     └── tours.txt
 
 
-Descripción de paquetes
+##  Descripción de paquetes:
+
 📁 ui
 
-Contiene la clase principal Main, encargada de ejecutar la aplicación y mostrar los resultados por consola.
+# Contiene la clase principal Main, encargada de ejecutar la aplicación y mostrar los resultados por consola.
 
 📁 model
 
-Contiene la clase Tour, que representa cada tour turístico mediante atributos, constructor, getters, setters y método toString().
+# Contiene la clase Tour, que representa cada tour turístico mediante atributos, constructor, getters, setters y método toString().
 
 📁 data
 
-Contiene la clase GestorDatos, responsable de la lectura del archivo tours.txt y la creación de objetos Tour.
+# Contiene la clase GestorDatos, responsable de la lectura del archivo tours.txt y la creación de objetos Tour.
 
 📁 resources
 
-Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados por el sistema.
+# Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados por el sistema.
 
 
 # ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
- Clonar el repositorio
- git clone https://github.com/sergiosandovalv/llanquihue-tour.git
- Abrir el proyecto
- Abrir NetBeans IDE.
- Seleccionar File → Open Project.
- Buscar la carpeta del proyecto clonado.
- Abrir el proyecto.
- Ejecutar la aplicación
- Verificar que el archivo tours.txt se encuentre disponible en la carpeta resources.
- Ejecutar la clase Main.java ubicada en el paquete ui.
- El sistema cargará los tours desde el archivo de texto.
- Se mostrará el listado completo de tours.
- Posteriormente se visualizarán únicamente los tours de tipo Familiar.
+ ° Clonar el repositorio
+ ° git clone https://github.com/sergiosandovalv/llanquihue-tour.git
+ ° Abrir el proyecto
+ ° Abrir NetBeans IDE.
+ ° Seleccionar File → Open Project.
+ ° Buscar la carpeta del proyecto clonado.
+ ° Abrir el proyecto.
+ ° Ejecutar la aplicación
+ ° Verificar que el archivo tours.txt se encuentre disponible en la carpeta resources.
+ ° Ejecutar la clase Main.java ubicada en el paquete ui.
+ ° El sistema cargará los tours desde el archivo de texto.
+ °Se mostrará el listado completo de tours.
+ ° Posteriormente se visualizarán únicamente los tours de tipo Familiar.
 
 
 
