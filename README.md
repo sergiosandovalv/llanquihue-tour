@@ -27,6 +27,8 @@ Manejo de excepciones mediante try-catch.
 El sistema permite mostrar el listado completo de tours y filtrar aquellos pertenecientes a la categoría Familiar.
 
 🧱 Estructura general del proyecto
+
+
 src/
 
 ├── ui/
@@ -40,6 +42,8 @@ src/
 │
 └── resources/
     └── tours.txt
+
+
 Descripción de paquetes
 📁 ui
 
