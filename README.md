@@ -24,7 +24,7 @@ Manejo de archivos de texto.
 Uso de colecciones ArrayList.
 Estructuras de control (if y while).
 Manejo de excepciones mediante try-catch.
-C
+
 El sistema permite mostrar el listado completo de tours y filtrar aquellos pertenecientes a la categoría Familiar.
 
 
@@ -41,23 +41,23 @@ src/
     └── tours.txt
 
 
-##  Descripción de paquetes:
+#  Descripción de paquetes:
 
 ## 📁 ui
 
 Contiene la clase principal Main, encargada de ejecutar la aplicación y mostrar los resultados por consola.
 
-📁 model
+## 📁 model
 
-# Contiene la clase Tour, que representa cada tour turístico mediante atributos, constructor, getters, setters y método toString().
+Contiene la clase Tour, que representa cada tour turístico mediante atributos, constructor, getters, setters y método toString().
 
-📁 data
+## 📁 data
 
-# Contiene la clase GestorDatos, responsable de la lectura del archivo tours.txt y la creación de objetos Tour.
+ Contiene la clase GestorDatos, responsable de la lectura del archivo tours.txt y la creación de objetos Tour.
 
-📁 resources
+## 📁 resources
 
-# Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados por el sistema.
+Contiene el archivo de texto tours.txt, donde se almacenan los datos utilizados por el sistema.
 
 
 # ⚙️ Instrucciones para clonar y ejecutar el proyecto
